@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DL-prototype/static/css/main.97647496.css",
+    "main.js": "/DL-prototype/static/js/main.3ac3168e.js",
+    "index.html": "/DL-prototype/index.html",
+    "main.97647496.css.map": "/DL-prototype/static/css/main.97647496.css.map",
+    "main.3ac3168e.js.map": "/DL-prototype/static/js/main.3ac3168e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97647496.css",
+    "static/js/main.3ac3168e.js"
+  ]
+}
